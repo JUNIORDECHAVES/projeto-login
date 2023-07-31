@@ -82,7 +82,7 @@ div.campo > input{
 }
 div.campo > input:focus-within {
     background-color: white;
-    border: none;
+    outline: none;
 }
 form > input[type=submit] {
     display: block;
